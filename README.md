@@ -3,33 +3,8 @@ A full-featured Restaurant Management System for handling orders,  user and admi
 
 #Projcet Structure:-
 
-RESTAURANT/
-│
-├── admin_dashboard/              # Admin panel for managing items and orders
-│   ├── add_items.php             # Page to add new food items
-│   ├── admin_dashboard.php       # Main dashboard for admin
-│   ├── view_items.php            # View all added items
-│   └── view_orders.php           # View all placed orders
-│
-├── uploads/                      # Uploaded food images
-│   ├── biryani.jpg
-│   ├── chaynij.jpg
-│   ├── dosa.jpg
-│   ├── gulab.jpg
-│   ├── image.jpg
-│   ├── pav.jpg
-│   ├── pizza.jpg
-│   ├── ras.jpg
-│   ├── salad.jpg
-│   └── vada.jpg
-│
-├── db_connect.php                # Database connection file
-├── index.php                     # Homepage
-├── login.php                     # Login page
-├── logout.php                    # Logout script
-├── order.php                     # Order placing functionality
-├── register.php                  # User registration
-└── user_dashboard.php            # Dashboard for logged-in users
+<img width="699" height="669" alt="image" src="https://github.com/user-attachments/assets/b490ca6c-d45e-4a14-a777-a9a1ce490448" />
+
 
 #Output of project:-
 

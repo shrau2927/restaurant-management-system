@@ -3,7 +3,7 @@ A full-featured Restaurant Management System for handling orders,  user and admi
 
 #Projcet Structure:-
 
-<img width="699" height="669" alt="image" src="https://github.com/user-attachments/assets/b490ca6c-d45e-4a14-a777-a9a1ce490448" />
+<img width="445" height="426" alt="image" src="https://github.com/user-attachments/assets/138baca5-a02d-48b4-8de2-8ea07a4c4edb" />
 
 
 #Output of project:-

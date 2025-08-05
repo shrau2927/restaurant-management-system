@@ -1,6 +1,22 @@
 # restaurant-management-system
 A full-featured Restaurant Management System for handling orders,  user and admin  roles. Built using HTML, CSS, PHP, and MySQL to streamline daily restaurant operations.
 
+#Features:-
+1.Admin Dashboard to manage food items and view orders
+2.Menu item upload with images
+3.Order placement and tracking system
+4.User Registration and Login
+5.Session-based authentication
+6.Organized file structure with uploads folder
+
+#Tech Stack
+| Layer    | Technology             |
+| -------- | ---------------------- |
+| Frontend | HTML, CSS              |
+| Backend  | PHP                    |
+| Database | MySQL                  |
+| Server   | Localhost (XAMPP/WAMP) |
+
 #Projcet Structure:-
 
 <img width="445" height="426" alt="image" src="https://github.com/user-attachments/assets/138baca5-a02d-48b4-8de2-8ea07a4c4edb" />
@@ -45,6 +61,7 @@ A full-featured Restaurant Management System for handling orders,  user and admi
 ##****VIEW ORDER****##
 <img width="1895" height="893" alt="image" src="https://github.com/user-attachments/assets/07f2ea35-c091-4b10-991b-6ff54468a8c3" />
 
-
+#Conclusion
+This Restaurant Management System provides a simple yet effective solution for managing restaurant operations such as orders, menus, and users. It is an ideal project for beginners exploring web development with PHP and MySQL, and it can be extended further with features like payment integration, order status updates, or analytics.
 
 
